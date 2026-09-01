@@ -29,79 +29,34 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Climate FieldView
-Digital agriculture platform for collecting and analyzing field and agronomic data, supporting planting, spraying, harvesting, field visualization, crop analysis, and farm decision-making.
-
-John Deere Operations Center
-Connected farm management platform for managing equipment, fields, operators, work plans, and machine data, with capabilities for planning operations, monitoring job quality, and analyzing seasonal results.
-
-Trimble Ag Software
-Precision agriculture and farm management ecosystem supporting field records, machine connectivity, guidance, farm planning, input management, and operational analytics.
-
-Ag Leader Technology
-Precision agriculture technology provider offering GPS guidance, steering, planting, application control, yield monitoring, field mapping, and farm data management.
-
-Sentera
-Agricultural intelligence platform combining imagery, sensors, analytics, and precision agriculture tools for crop monitoring and field decision-making.
-
-Taranis
-AI-powered crop intelligence platform using aerial imagery, computer vision, weather information, and agronomic data to identify crop threats and field conditions.
-
-CropX
-Digital agronomy platform combining soil sensors, farm data, weather information, irrigation intelligence, and analytics to support precision farming decisions.
-
-Prospera
-Digital agriculture and crop intelligence technology focused on AI-based crop monitoring, irrigation optimization, field analytics, and agronomic decision support.
-
-OneSoil
-Digital farming platform providing field monitoring, satellite imagery, vegetation analysis, field zoning, and precision agriculture decision support.
-
-FarmQA
-Farm management and agronomy platform supporting field scouting, crop observations, soil sampling, GIS mapping, prescriptions, work records, and agricultural analytics.
-
-Arable
-Agricultural intelligence platform combining field sensors, weather measurements, crop data, and analytics for agronomic monitoring and decision support.
-
-EOSDA Crop Monitoring
-Satellite-based crop monitoring platform supporting vegetation indices, field analysis, weather information, productivity zoning, crop monitoring, and precision agriculture workflows.
-
-Hummingbird Technologies
-Precision agriculture and remote-sensing technology provider using aerial imagery and analytics for crop monitoring, field assessment, and targeted agronomic decisions.
-
-senseFly
-Professional drone and aerial mapping technology ecosystem used for agricultural surveying, field mapping, crop monitoring, and high-resolution imagery collection.
-
-eAgronom
-Digital farm management platform supporting field records, crop planning, sustainability reporting, carbon-related workflows, agricultural analytics, and farm operations.
-
-Agremo
-Agricultural image-analysis platform using AI and computer vision to analyze drone imagery and assess crop and field conditions.
-
-Xarvio FIELD MANAGER
-Digital farming platform supporting crop management, field monitoring, disease intelligence, variable-rate recommendations, and precision agriculture workflows.
-
-xFarm
-Digital farm management platform supporting field records, machinery management, sustainability, crop operations, sensors, and agricultural data analysis.
-
-Granular
-Farm management and agricultural analytics platform supporting farm operations, financial management, production analysis, and agronomic planning.
-
-Cropwise
-Digital agriculture ecosystem offering farm management, crop monitoring, precision farming, data analytics, and agronomic decision-support capabilities.
-
-Farmers Edge
-Digital agriculture platform combining field data, satellite imagery, machine data, agronomic information, and analytics.
-
-TeeJet Technologies
-Precision agriculture technology provider supporting guidance, steering, application control, spraying, and variable-rate farming operations.
-
-Topcon Agriculture
-Precision agriculture ecosystem providing guidance, autosteer, machine control, variable-rate application, field mapping, and connected farm technology.
-
-DJI Agriculture
-Agricultural drone ecosystem supporting crop spraying, field mapping, multispectral imaging, and precision agriculture operations.
+| Platform | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Climate FieldView** | Digital agriculture platform for collecting and analyzing field and agronomic data, supporting planting, spraying, harvesting, field visualization, crop analysis, and farm decision-making. | **$499/year** (FieldView Plus tier) | **Free Forever:** FieldView Basic plan offers free account access for data storage, field upload, and basic mapping; **1-year free trial** of FieldView Plus for qualifying operations (or 30-day trial in select regions). |
+| **John Deere Operations Center** | Connected farm management platform for managing equipment, fields, operators, work plans, and machine data, with capabilities for planning operations, monitoring job quality, and analyzing seasonal results. | **$195/machine/year** (Operations Center PRO Service diagnostic and maintenance license) | **Free Forever:** Core platform is 100% free with no acreage caps, including field setup, JDLink machine connectivity, wireless data transfer, and agronomic mapping. |
+| **Trimble Ag Software** | Precision agriculture and farm management ecosystem supporting field records, machine connectivity, guidance, farm planning, input management, and operational analytics. | **$199/year** (Farmer Core tier; optional AutoSync display connection at $99/display/year) | **30-day free trial** via authorized Trimble dealer network with full access to field mapping, record-keeping, and display connectivity. |
+| **Ag Leader Technology (AgFiniti)** | Precision agriculture technology provider offering GPS guidance, steering, planting, application control, yield monitoring, field mapping, and farm data management. | **$350/year** (AgFiniti Essentials annual license) | **Free Forever:** Free account includes up to 5 GB cloud storage, wireless file transfer, display sharing, and mobile map viewing; **30-day free trial** of AgFiniti Essentials (activated once per account). |
+| **Sentera (FieldAgent)** | Agricultural intelligence platform combining imagery, sensors, analytics, and precision agriculture tools for crop monitoring and field decision-making. | **$49/month** or **$500/year** (FieldAgent Starter/Advisor analytics tier) | **Free Forever:** FieldAgent Mobile app is free forever for autonomous drone flight planning and mission execution; **30-day trial/pilot** available for advanced imagery analytics. |
+| **Taranis** | AI-powered crop intelligence platform using aerial imagery, computer vision, weather information, and agronomic data to identify crop threats and field conditions. | **$15/acre/year** (AI leaf-level scouting subscription; typically 250–500 acre minimum contract) | **1-flight field evaluation trial** (pilot covering up to 50–100 acres with full leaf-level weed, disease, and nutrient deficiency detection reports). |
+| **CropX** | Digital agronomy platform combining soil sensors, farm data, weather information, irrigation intelligence, and analytics to support precision farming decisions. | **$300/sensor/year** (Platform subscription; paired with $695 one-time sensor hardware) | **14-day free trial** on web and mobile platform with simulated virtual sensor datasets and irrigation modeling tools. |
+| **Prospera (Valmont / Valley Insights)** | Digital agriculture and crop intelligence technology focused on AI-based crop monitoring, irrigation optimization, field analytics, and agronomic decision support. | **$12/acre/year** (Valley Insights AI crop and pivot monitoring subscription) | **30-day / 1-season pilot trial** on 1 center-pivot system (covering approximately 120–160 acres). |
+| **OneSoil** | Digital farming platform providing field monitoring, satellite imagery, vegetation analysis, field zoning, and precision agriculture decision support. | **$2/hectare/year** (OneSoil Pro tier) | **Free Forever:** Unlimited field boundaries, Sentinel-2 NDVI updates every 3–5 days, 5-year crop rotation history, and scouting notes; **14-day free trial** of OneSoil Pro. |
+| **FarmQA** | Farm management and agronomy platform supporting field scouting, crop observations, soil sampling, GIS mapping, prescriptions, work records, and agricultural analytics. | **$800/user/year** (Agronomist / Controller platform license) | **14-day free trial** with full access to digital scouting, custom forms, recommendation tools, and 160 acres of high-resolution Planet satellite imagery. |
+| **Arable** | Agricultural intelligence platform combining field sensors, weather measurements, crop data, and analytics for agronomic monitoring and decision support. | **$699/device/year** (Software subscription; paired with $1,595 Arable Mark sensor hardware) | **30-day software sandbox trial** with complete access to real-time microclimate analytics, evapotranspiration models, and plant stress indices. |
+| **EOSDA Crop Monitoring** | Satellite-based crop monitoring platform supporting vegetation indices, field analysis, weather information, productivity zoning, crop monitoring, and precision agriculture workflows. | **$25/month** (Essential plan) or **$2.50/ha/year** | **Free Forever:** 1 field up to 300 hectares (basic NDVI monitoring, historical data, 14-day weather forecast); **14-day free trial** of Professional plan tools. |
+| **Hummingbird Technologies (Agreena)** | Precision agriculture and remote-sensing technology provider using aerial imagery and analytics for crop monitoring, field assessment, and targeted agronomic decisions. | **€3.50/hectare/year** (Canopy analytics & yield prediction subscription) | **14-day free trial pilot** for up to 1 field (50 hectares) covering multispectral plant health mapping and weed detection analysis. |
+| **senseFly (AgEagle / Measure Studio)** | Professional drone and aerial mapping technology ecosystem used for agricultural surveying, field mapping, crop monitoring, and high-resolution imagery collection. | **$100/month** or **$1,200/year** (Measure Studio photogrammetry & ag analytics license) | **Free Forever:** eMotion flight planning software is free with drone hardware; **14-day free trial** of Measure Studio cloud image processing and multispectral index generation. |
+| **eAgronom** | Digital farm management platform supporting field records, crop planning, sustainability reporting, carbon-related workflows, agricultural analytics, and farm operations. | **€250/year** (Base farm management tier, ~€1.50–€2.50/hectare/year) | **14-day free trial** with full access to field planning, crop rotation tracking, task management, and mobile scouting. |
+| **Agremo** | Agricultural image-analysis platform using AI and computer vision to analyze drone imagery and assess crop and field conditions. | **$1,950/year** (Professional tier, or ~$2/acre on-demand analysis credits) | **Free Forever:** Starter Plan includes up to 2 field drone image analyses per month and up to 100 hectares (250 acres) total uploaded map area. |
+| **Xarvio FIELD MANAGER** | Digital farming platform supporting crop management, field monitoring, disease intelligence, variable-rate recommendations, and precision agriculture workflows. | **€3/hectare/year** (FIELD MANAGER core subscription) | **Free Forever:** xarvio Scouting app is free forever with unlimited photo scans for disease, weed, and pest identification; **30-day free trial** of FIELD MANAGER zone recommendations. |
+| **xFarm** | Digital farm management platform supporting field records, machinery management, sustainability, crop operations, sensors, and agricultural data analysis. | **€195/year** (xFarm Plus tier; €395/year for Pro) | **Free Forever:** "Start" package is free forever with no field size or acreage limits, including 15 core features (field registry, machinery tracking, task logging, weather alerts). |
+| **Granular (Corteva Agriscience)** | Farm management and agricultural analytics platform supporting farm operations, financial management, production analysis, and agronomic planning. | **$499/year** (Granular Business / Advanced Financials starting tier) | **Free Forever:** Granular Insights tier is free forever (directed scouting, field boundaries, and basic satellite imagery across entire farm acreage); **30-day free trial** for Business modules. |
+| **Cropwise (Syngenta)** | Digital agriculture ecosystem offering farm management, crop monitoring, precision farming, data analytics, and agronomic decision-support capabilities. | **$1.50/acre/year** (Cropwise Imagery & Operations subscription) | **Free Forever:** Cropwise Grower app is free forever for weather alerts, basic scouting, and crop advisory; **30-day free trial** of Cropwise Imagery and variable rate mapping. |
+| **Farmers Edge (FarmCommand)** | Digital agriculture platform combining field data, satellite imagery, machine data, agronomic information, and analytics. | **$75/month** or **$900/year** (FarmCommand Essential tier) | **30-day free trial** providing digital field boundary mapping, weather station feed integration, and satellite health imagery for up to 5 fields. |
+| **TeeJet Technologies** | Precision agriculture technology provider supporting guidance, steering, application control, spraying, and variable-rate farming operations. | **$1,450** (Matrix 430 GNSS console hardware & preloaded software package; $0 recurring SaaS fee) | **Free Forever:** SpraySelect and TeeJet Mobile nozzle selection/calibration apps are free forever ($0); field computer firmware updates provided free for the life of hardware. |
+| **Topcon Agriculture (TAP)** | Precision agriculture ecosystem providing guidance, autosteer, machine control, variable-rate application, field mapping, and connected farm technology. | **$250/year per connected machine** (TAP Core tier) | **Free Forever:** TAP Basic account is free forever for manual field file uploads, job file conversion, and fleet telemetry visualization; **30-day free trial** of TAP Pro. |
+| **DJI Agriculture (DJI SmartFarm / DJI Terra)** | Agricultural drone ecosystem supporting crop spraying, field mapping, multispectral imaging, and precision agriculture operations. | **€1,860/year** (DJI Terra Agriculture license; DJI SmartFarm Web is $0) | **Free Forever:** DJI SmartFarm Web & App is free forever for personal spray drone flight logging, telemetry, and team sharing; **1-month free trial** license of DJI Terra Agriculture (or 6-month trial bundled with Agras drone purchase). |
 
 Open-Source GitHub Projects
 
